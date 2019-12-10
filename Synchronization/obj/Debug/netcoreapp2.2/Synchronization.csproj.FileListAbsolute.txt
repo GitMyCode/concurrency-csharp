@@ -1,0 +1,11 @@
+C:\DEV\concurrency-csharp\Synchronization\obj\Debug\netcoreapp2.2\Synchronization.csprojAssemblyReference.cache
+C:\DEV\concurrency-csharp\Synchronization\obj\Debug\netcoreapp2.2\Synchronization.csproj.CoreCompileInputs.cache
+C:\DEV\concurrency-csharp\Synchronization\obj\Debug\netcoreapp2.2\Synchronization.AssemblyInfoInputs.cache
+C:\DEV\concurrency-csharp\Synchronization\obj\Debug\netcoreapp2.2\Synchronization.AssemblyInfo.cs
+C:\DEV\concurrency-csharp\Synchronization\bin\Debug\netcoreapp2.2\Synchronization.deps.json
+C:\DEV\concurrency-csharp\Synchronization\bin\Debug\netcoreapp2.2\Synchronization.runtimeconfig.json
+C:\DEV\concurrency-csharp\Synchronization\bin\Debug\netcoreapp2.2\Synchronization.runtimeconfig.dev.json
+C:\DEV\concurrency-csharp\Synchronization\bin\Debug\netcoreapp2.2\Synchronization.dll
+C:\DEV\concurrency-csharp\Synchronization\bin\Debug\netcoreapp2.2\Synchronization.pdb
+C:\DEV\concurrency-csharp\Synchronization\obj\Debug\netcoreapp2.2\Synchronization.dll
+C:\DEV\concurrency-csharp\Synchronization\obj\Debug\netcoreapp2.2\Synchronization.pdb
